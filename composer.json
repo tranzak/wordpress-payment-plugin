@@ -1,0 +1,19 @@
+{
+    "name": "tz00008/tranzak-payment-gateway",
+    "description": "TRANZAK is the fast, easy, and safe way to collect and send payments in Cameroon and Africa at large.",
+    "type": "project",
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anseloh",
+            "email": "ayuekp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
